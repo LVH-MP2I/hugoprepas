@@ -720,7 +720,9 @@ export default {
 	border-color: var(--accent);
 	border-width: 2px;
   }
-
+  .icone {
+	height: 1.2rem;
+  }
 	</style>
 	<script>
 	  document.addEventListener('DOMContentLoaded', function() {
